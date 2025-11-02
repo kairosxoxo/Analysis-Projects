@@ -1,0 +1,1 @@
+📊 A collection of my Business Analyst and Data Analyst projects — developed to practice, explore, and enhance my skills in data analysis, reporting, and generating meaningful business insights. Each project demonstrates my ability to work with data, apply analytical techniques, and translate findings into actionable recommendations that support data-driven decision-making.
